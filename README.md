@@ -1,2 +1,2 @@
 # practiceWithJoy
-This is  bootstrap practice project with joy da 
+This is a bootstrap practice project with joy da 
