@@ -1,1 +1,19 @@
 /* CSS File v0.0.1 */
+:root {
+    --primary-color: #2DBE5F;
+    --dark-color: #060606;
+    --offwhite-color: #EBEBEB;
+}
+/* Overrides */
+.bg-dark {
+    background-color: var(--dark-color) !important;
+}
+/* text styles */
+.text-offwhite {
+    color: rgba(255, 255, 255, .5);
+
+}
+/* footer styles */
+footer .footer-bottom-section {
+    background-color: rgba(255, 255, 255, .08);
+}
